@@ -1,5 +1,4 @@
 <?php
-
 	$nome =$_POST["inome"];  $ar   = 0;
 	$snome=$_POST["isnome"]; $cont = 0;
 	$email=$_POST["iemail"]; $qce  =strlen($email);

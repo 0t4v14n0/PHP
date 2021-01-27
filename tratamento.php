@@ -8,7 +8,7 @@
 
 	$letra = substr($email, $qce-1, 1);
 	if((strcasecmp ('@', $letra) == 0) or ($cont > 0) or ($ar > 1)){
-		include('index.html');
+		include_once('index.html');
 	}
 	else{
 		$txt = fopen("arq.txt", "a");

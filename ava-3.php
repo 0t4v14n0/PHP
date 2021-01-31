@@ -21,7 +21,7 @@
 			}
 			else if (($a[$i] >= 5) && ($a[$i] <= 15)){				
 				echo "Bola de gude oficial <br>";
-			}
+			} 
 		} 
 	}
 ?>

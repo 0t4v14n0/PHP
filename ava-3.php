@@ -13,9 +13,11 @@
 			else if(($a[$i] >= 185) && ($a[$i] <= 240)){
 				echo "Bola de volei oficial <br>";
 			}
-			else if (($a[$i] >= 800) && ($a[$i] <= 1200)){				echo "Bola de boliche oficial <br>";
+			else if (($a[$i] >= 800) && ($a[$i] <= 1200)){				
+				echo "Bola de boliche oficial <br>";
 			}
-			else if (($a[$i] >= 450) && ($a[$i] <= 600)){				echo "Bola de basquete oficial <br>";
+			else if (($a[$i] >= 450) && ($a[$i] <= 600)){				
+				echo "Bola de basquete oficial <br>";
 			}
 			else if (($a[$i] >= 5) && ($a[$i] <= 15)){				
 				echo "Bola de gude oficial <br>";
